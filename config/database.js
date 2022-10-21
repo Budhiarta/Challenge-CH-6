@@ -1,6 +1,6 @@
 /**
  * @file Manages database connection configuration.
- * @author Fikri Rahmat Nurhidayat
+ * @author Kelompok 4 FSW 2
  */
 
 /** Destruct environment variable to get database configuration */

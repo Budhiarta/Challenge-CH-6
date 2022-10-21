@@ -1,6 +1,6 @@
 /**
  * @file contains authentication request handler and its business logic
- * @author Fikri Rahmat Nurhidayat
+ * @author Kelompok 4 FSW 2
  */
 
 const bcrypt = require("bcryptjs");

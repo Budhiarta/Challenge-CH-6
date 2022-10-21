@@ -1,6 +1,6 @@
 /**
  * @file contains entry point of controllers module
- * @author Fikri Rahmat Nurhidayat
+ * @author Kelompok 4 FSW 2
  */
 
 const api = require("./api");

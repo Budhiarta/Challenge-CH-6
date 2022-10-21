@@ -1,6 +1,6 @@
 /**
  * @file contains entry point of controllers api v1 module
- * @author Fikri Rahmat Nurhidayat
+ * @author Kelompok 4 FSW 2
  */
 
 const authController = require("./authController");
